@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<body>
+    <title>First-Year Engineering Portfolio</title>
+    
+  
+    <style>
+        body {
+            
+          
+            
+           
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 7);
+            color: white;
+            padding: 20px;
+        }
+
+
+        nav {
+            background-color: rgb(1111, 112, 111);
+            padding: 70px;
+        }
+
+        nav ul {
+            
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        main {
+            background-color: rgba(22222225, 22225, 222220, 0.8);
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: rgba(1133, 0, 110, 0.7);
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body><style>
+body {background-color:rgb(1111, 2, 111);}
+h1   {color: rgb(216, 16, 66);}
+p    {color: rgb(22, 20, 20);}
+</style>
+    <header>
+        <h1>First-Year Engineering Portfolio</h1>
+        <h2>BHAKTI MALSHIKARE</h2>
+    <div class="main">
+          <img src="C:\Users\DELL\Documents\My Photo.jpg" alt="MyPic" width="300px" />
+        </div>
+      <div class="social" style="transform: translate3d(40%, 500%, 0)">
+          <a href="https://instagram.com/zurkle_?igshid=ZDc4ODBmNjlmNQ==">
+            <img src="C:\Users\DELL\Documents\Instagram.jpg" alt="Instagram" width="60px" />
+          </a>
+          <a href="https://twitter.com/BhaktiMalshika1?t=tSCdaxzRv6sszVJUc63w8g&s=09">
+            <img src="C:\Users\DELL\Documents\Twitter.jpg" alt="Twitter" width="60px" />
+          </a>
+          <a href="https://www.linkedin.com/in/bhakti-malshikare-36a37a259">
+            <img src="C:\Users\DELL\Documents\LinkedIn.jpg" alt="Linkedin" width="60px" />
+          </a>
+        
+        </div>
+
+
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="about-me">
+        <h2><mark>About Me</h2>
+        <li>My name is Bhakti. I am from Pune, Maharashtra.</li>
+        <li>My father is a Tata Motors employee.</li>
+        <li>My hobbies are rollball, reading, etc.</li>
+        <li>I love doing complex machine works and fashion.</li>
+    </section>
+
+    <section id="education">
+        <h2><mark>Education</h2>
+        <ul>
+            <li><strong>MIT</strong>, BTech in Mechanical Engineering, Expected Graduation: 2026</li>
+            <li><strong>Fergusson</strong>, High School Completed 2022</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2><mark>Projects</h2>
+        <ul>
+            <li><strong>Project 1 Title</strong> - did a science project in 12 grade and i am a member of that team. <div class="main">
+          <img src="C:\Users\DELL\Documents\Prize Distribution.jpg" alt="Pic" width="150px" />
+        </div></li>
+            <li><strong>Project 2 Title</strong> - i am a three time national player in rollball and roller hockey. <div class="main">
+          <img src="C:\Users\DELL\Documents\Sports.jpg" alt="Pic" width="150px" />
+        </div></li>
+            <li><strong> Project 3 Title</strong> - Working on a DT project to improve the drainage system and i am one of the member of the core team. <div class="main">
+          <img src="C:\Users\DELL\Documents\Project Model.jpg" alt="Pic" width="150px" />
+        </div></li>
+
+     <section id="skills">
+      <h2><mark>Skills</h2>
+                
+                    <li>Programming languages:
+                      C language,Python, english proficiency</li>
+                
+            </section>
+
+            <section id="contact">
+                <h2><mark>Contact Me</h2>
+                <p>You can reach me at:</p>
+                <ul>
+                    <li>Email: bhakti.malshikare@mitaoe.ac.in</li>
+                    <li>Phone:+91 9716523636</li>
+                    <li>Social media: Instagram </li>
+                </ul>
+                <h1><mark>FORM CODE DRONE<h1i><br><br><br>
+
+
+                        <Form>
+                            Enter Name<input type="text" maxlenght="10" placeholder="Enter the name" required>
+                            <br>
+                            <br>
+                            Age<input type="Age" min="3" max="7" placeholder="Enter your age" requiered>
+                            <br>
+                            <br>
+                            Date : <input type="Date" requiered>
+                            <br>
+                            <br>
+                            ENTER THE PASSWORD <input type="Password" placeholder="Enter the password" requierd>
+                            <BR>
+                            <BR>
+                            ENTER YOUR E-MIAL<input type="Email" placeholder="Enter the correct E-Mail" requiered>
+                            <br>
+                            <br>
+
+                            </Em>
+                            <input type="Radio" name="
+            gender"> Male
+                            <input type="Radio" name="
+            gender"> Female
+                            <br>
+                            <br>
+                            <input type="checkbox"> I Agree
+                            <br>
+                            <br>
+                              Phone Number: <input type="tel" placeholder="Enter your phone number" required>
+<br><br>
+Country:
+<select name="country" required>
+    <option value="">Select your country</option>
+    <option value="USA">United States</option>
+    <option value="UK">United Kingdom</option>
+    <option value="Canada">Canada</option>
+    
+</select>
+<br><br>
+  Upload File: <input type="file" name="file" accept=".pdf,.doc,.jpg,.png" required>
+<br><br>
+Language Preference:
+<input type="checkbox" name="language" value="English"> English
+<input type="checkbox" name="language" value="Spanish"> Spanish
+<input type="checkbox" name="language" value="French"> French
+<br><br>
+<button type="reset">Reset</button><br><br>
+  <input type="checkbox" required> I Agree to the <a>Terms and Conditions</a>
+
+
+
+                            <button type="Submit">
+                            </button>
+                        </Form>
+                        </body>
+
+
+                                  <h1><mark>My certifications</h1><br>
+                             <div> 
+                               <a href="https://drive.google.com/file/d/19dHHYwvdQHwJN7J1fGFkNkX_7LhjbBeu/view?usp=drivesdk">python basic code</a><br><br>
+                              <br>
+                               <a href="https://drive.google.com/file/d/19amGyUarMMQQSy1hwpk4_FBZlHCQqlYe/view?usp=drivesdk">english content writing course</a></div><br><br>
+                               
+
+
+
+
+
+    
+                                    
+
+<head>
+  <title>Timetable</title>
+  <style>
+    table {
+      
+    }
+    th, td {
+      border: 1px solid black;
+      
+    }
+  </style>
+</head>
+<body>
+  <h1><mark>B3 Timetable</h1>
+
+  <table>
+    
+      <tr>
+        <th></th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+      
+      </tr>
+   
+    <tbody>
+      <tr>
+        <td>8:30 - 9:25</td>
+        <td>eds lab</td>
+        <td>guest lecture</td>
+        <td>son</td>
+        <td>am</td>
+        <td>am lab</td>
+        <td>indian constitution</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>9:25 - 10:20</td>
+        <td>eds lab</td>
+        <td>guest lecture</td>
+        <td>sic</td>
+        <td>et</td>
+        <td>am lab</td>
+        <td>indian constitution</td>
+        <td></td>
+      </tr>
+       <tr>
+        <td>10:20 - 10:30</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+       
+      </tr>
+      <tr>
+        <td>10:30 - 11:25</td>
+        <td>sic</td>
+        <td>office hours</td>
+        <td>dt lab</td>
+        <td>english</td>
+        <td>son</td>
+        <td>german</td>
+        
+      </tr> <tr>
+        <td>11:25 - 12:20</td>
+        <td>son</td>
+        <td>office hours</td>
+        <td>dt lab</td>
+        <td>english</td>
+        <td>eds</td>
+        <td>-</td>
+        
+      </tr>
+      <tr>
+        <td>12:20 - 1:15</td>
+        <td>lunch break</td>
+        <td>lunch break</td>
+        <td>lunch break</td>
+        <td>lunch break</td>
+        <td>lunch break</td>
+        <td>lunch break</td>
+        
+      </tr> <tr>
+        <td>1:15 - 2:05</td>
+        <td>son lab</td>
+        <td>sic</td>
+        <td>-</td>
+        <td>dt</td>
+        <td>eds lab</td>
+        <td>-</td> <tr>
+        <td>2:05 - 3:05</td>
+        <td>son lab</td>
+        <td>am</td>
+        <td>mentoring</td>
+        <td>eds</td>
+        <td>eds lab</td>
+        <td>-</td>
+       
+      </tr>
+      <tr>
+        <td>3:05 - 3:10</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+     
+      </tr> <tr>
+        <td>3:10 - 4:10</td>
+        <td>et</td>
+        <td>maths tutorial</td>
+        <td>sport</td>
+        <td>-</td>
+        <td>-</td>
+        <td>et(drone only)</td>
+        
+      </tr>
+      <tr>
+        <td>4:10 - 4:50</td>
+        
+        <td>et</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>et(drone only)</td>
+        
+      </tr> <tr>
+        <td>4:50 - 5:00</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+        <td>short break</td>
+   
+      </tr>
+      <tr>
+        <td>5:00 - 6:00</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+      
+      </tr> <tr>
+        <td>6:00 - 7:00</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+       
+      </tr>
+      
+      <td></td>
+      </tr>
+      
+     
+    </tbody>
+  </table>
+</body>
+
+
+
+<footer>
+    <p>Copyright &copy; First-Year Engineering Portfolio -bhakti malshikare</p>
+</footer><!DOCTYPE html>
+
+ 
+
+  
+
+
+
+</body>
+
+</html>
